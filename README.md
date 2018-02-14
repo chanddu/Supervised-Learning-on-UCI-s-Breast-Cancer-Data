@@ -143,4 +143,4 @@ labels: Array[Double] = Array(2.0, 4.0)
 ```
 
 ### Statistics Summary:
-![](https://github.com/chanddu/Supervised-Learning-on-UCI-s-Breast-Cancer-Data/blob/master/Statistics%20Summary.png)
+![](https://github.com/chanddu/Supervised-Learning-on-UCI-s-Breast-Cancer-Data/blob/master/Statistics%20Summary%20.png)
