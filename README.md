@@ -9,7 +9,7 @@ In the first attempt, use all of the attributes (features) while training and te
 
 In the second attempt, perform `dimensionality reduction` and reduce the dimensions to some chosen value K. Then, performed the training and testing on these K dimensions and reported results. The details of dimensionality reduction are available here: https://spark.apache.org/docs/latest/mllib-dimensionality-reduction.html <br>
 
-Link to the Decision Tree Implementation : [DT](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/167428040012665/2841578069654501/8971546509206599/latest.html) <br>
+## Link to the Decision Tree Implementation : [DT](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/167428040012665/2841578069654501/8971546509206599/latest.html) <br>
 
 #### Learned Decision Tree:
 
@@ -56,7 +56,7 @@ Weighted false positive rate: 0.07650793650793651
 accuracy: Double = 0.9476190476190476
 labels: Array[Double] = Array(2.0, 4.0)
 ```
-Link to the Decision Tree Implementation with Dimensionality reduction (PCA): [DT_PCA](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/167428040012665/2243788287462920/8971546509206599/latest.html)
+## Link to the Decision Tree Implementation with Dimensionality reduction (PCA): [DT_PCA](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/167428040012665/2243788287462920/8971546509206599/latest.html)
 
 #### Learned Decision Tree (With PCA):
 
@@ -91,7 +91,7 @@ Weighted false positive rate: 0.03337155429316446
 accuracy: Double = 0.978021978021978
 labels: Array[Double] = Array(2.0, 4.0)
 ```
-Link to the Logistic Regression Implementation: [LR](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/167428040012665/2243788287462925/8971546509206599/latest.html)
+## Link to the Logistic Regression Implementation: [LR](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/167428040012665/2243788287462925/8971546509206599/latest.html)
 
 Output of the model:
 ```
@@ -116,7 +116,7 @@ accuracy: Double = 0.9427480916030534
 labels: Array[Double] = Array(2.0, 4.0)
 ```
 
-Link to Logistic Regression Implementation with PCA: [LR_PCA](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/167428040012665/212149162646688/8971546509206599/latest.html)
+## Link to Logistic Regression Implementation with PCA: [LR_PCA](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/167428040012665/212149162646688/8971546509206599/latest.html)
 
 Output of the model:
 
